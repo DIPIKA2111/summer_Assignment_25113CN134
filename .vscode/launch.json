@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "countdigit",
             "request": "launch",
             "mainClass": "countdigit",
