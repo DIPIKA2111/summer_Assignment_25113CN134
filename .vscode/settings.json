@@ -1,6 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "Day-3"
+        "Day-3",
+        "Day-5"
     ]
 }
