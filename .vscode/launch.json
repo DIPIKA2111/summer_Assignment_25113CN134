@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "halfpyramid",
+            "request": "launch",
+            "mainClass": "halfpyramid",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "largestprimeFactor",
             "request": "launch",
             "mainClass": "largestprimeFactor",
