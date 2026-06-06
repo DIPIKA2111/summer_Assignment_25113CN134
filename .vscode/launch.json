@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "characterPyramid",
+            "request": "launch",
+            "mainClass": "characterPyramid",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "numberPyramid",
+            "request": "launch",
+            "mainClass": "numberPyramid",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "reversePyramid",
+            "request": "launch",
+            "mainClass": "reversePyramid",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "starPyramid",
+            "request": "launch",
+            "mainClass": "starPyramid",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "halfpyramid",
             "request": "launch",
             "mainClass": "halfpyramid",
