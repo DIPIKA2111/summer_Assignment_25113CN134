@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicates",
+            "request": "launch",
+            "mainClass": "FindDuplicates",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "countSetbits",
+            "request": "launch",
+            "mainClass": "countSetbits",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyCounter",
+            "request": "launch",
+            "mainClass": "FrequencyCounter",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "prime",
             "request": "launch",
             "mainClass": "prime",
