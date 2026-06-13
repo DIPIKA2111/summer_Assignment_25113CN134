@@ -2,12 +2,13 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
         "Day-8",
+        "Day-6",
         "Day-5",
         "Day-3",
         "Day-14",
         "Day-11",
         "Day-10",
         "Day-1",
-        "Day-6"
+        "Day-17"
     ]
 }

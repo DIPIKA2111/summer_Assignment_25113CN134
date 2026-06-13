@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CommonElements",
+            "request": "launch",
+            "mainClass": "CommonElements",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "Intersection",
+            "request": "launch",
+            "mainClass": "Intersection",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "Union",
+            "request": "launch",
+            "mainClass": "Union",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MergeArrays",
+            "request": "launch",
+            "mainClass": "MergeArrays",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicates",
             "request": "launch",
             "mainClass": "FindDuplicates",
