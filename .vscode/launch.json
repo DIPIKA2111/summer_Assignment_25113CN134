@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixDiagonalSum",
+            "request": "launch",
+            "mainClass": "MatrixDiagonalSum",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MatrixTranspose",
+            "request": "launch",
+            "mainClass": "MatrixTranspose",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSubtraction",
+            "request": "launch",
+            "mainClass": "MatrixSubtraction",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAddition",
+            "request": "launch",
+            "mainClass": "MatrixAddition",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "DescendingSort",
             "request": "launch",
             "mainClass": "DescendingSort",
