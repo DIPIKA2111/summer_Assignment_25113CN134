@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ColumnWiseSum",
+            "request": "launch",
+            "mainClass": "ColumnWiseSum",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "RowWiseSum",
+            "request": "launch",
+            "mainClass": "RowWiseSum",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "SymmetricMatrix",
+            "request": "launch",
+            "mainClass": "SymmetricMatrix",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "StringLength",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "MatrixDiagonalSum",
             "request": "launch",
             "mainClass": "MatrixDiagonalSum",
