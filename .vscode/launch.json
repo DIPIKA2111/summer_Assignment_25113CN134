@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lowerToUpper",
+            "request": "launch",
+            "mainClass": "lowerToUpper",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonantCounter",
+            "request": "launch",
+            "mainClass": "VowelConsonantCounter",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "ColumnWiseSum",
             "request": "launch",
             "mainClass": "ColumnWiseSum",
