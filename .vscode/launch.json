@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortByLength",
+            "request": "launch",
+            "mainClass": "SortByLength",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "SortNames",
+            "request": "launch",
+            "mainClass": "SortNames",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "CommonCharacters",
+            "request": "launch",
+            "mainClass": "CommonCharacters",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortedArrays",
+            "request": "launch",
+            "mainClass": "MergeSortedArrays",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicates",
             "request": "launch",
             "mainClass": "RemoveDuplicates",
