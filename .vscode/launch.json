@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InventorySystem",
+            "request": "launch",
+            "mainClass": "InventorySystem",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "StringCalculator",
+            "request": "launch",
+            "mainClass": "StringCalculator",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "StringOperationSystem",
+            "request": "launch",
+            "mainClass": "StringOperationSystem",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "StringOperationsSystem",
+            "request": "launch",
+            "mainClass": "StringOperationsSystem",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOperationsSystem",
+            "request": "launch",
+            "mainClass": "ArrayOperationsSystem",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
+            "name": "MenuDrivenCalculator",
+            "request": "launch",
+            "mainClass": "MenuDrivenCalculator",
+            "projectName": "SUMMER ASSIGNMENT _3feb1e74"
+        },
+        {
+            "type": "java",
             "name": "SortByLength",
             "request": "launch",
             "mainClass": "SortByLength",
